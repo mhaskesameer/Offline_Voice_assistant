@@ -1,0 +1,4 @@
+vosk
+pyttsx3
+pyaudio
+vosk-model-small-en-in-0.4/
